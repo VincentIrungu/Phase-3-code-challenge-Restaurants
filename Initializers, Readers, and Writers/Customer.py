@@ -35,7 +35,7 @@ class Customer:
 customer1 = Customer("George","Washington")
 customer2 = Customer("John","Adams")
 
-print(Customer("Vincent", "Irungu"))
+print(Customer("George", "Washington"))
 
 #Getting given name
 
