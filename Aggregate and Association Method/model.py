@@ -44,7 +44,7 @@ class Restaurant:
 
 # Using the code with examples
 
-'''# Creating instances of customer, restaurant and customer list
+# Creating instances of customer, restaurant and customer list
 customer1 = Customer("Britney Irungu")
 print(Customer("Britney Irungu")) # Output <__main__.Customer object at 0x7f92e2096f80>
 
@@ -101,4 +101,10 @@ for customer in customers_with_first_name:
 
         # Ouput:
         # Britney Irungu
-        # Britney Nyambura'''
+        # Britney Nyambura
+
+
+#returns the average star rating for a restaurant based on its reviews
+print(restaurant.average_star_rating()) # Output 5.0
+
+
