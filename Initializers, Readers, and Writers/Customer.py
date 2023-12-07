@@ -28,7 +28,7 @@ class Customer:
     def get_customers_all(cls):
         return cls.customers_all
 
-
+'''
 # Example usage:
 
 # Creating customer instances
@@ -53,7 +53,7 @@ print(customer2.customer_full_name())  #Output Jogn Adams
 
 #Getting instances of all customers
 customers_all = Customer.get_customers_all()
-print(customers_all)   # Ouput __main__.Customer object at 0x7ff49c663fa0>, <__main__.Customer object at 0x7ff49c663c40>, <__main__.Customer object at 0x7ff49c663be0>]
+print(customers_all)   # Ouput __main__.Customer object at 0x7ff49c663fa0>, <__main__.Customer object at 0x7ff49c663c40>, <__main__.Customer object at 0x7ff49c663be0>]'''
 
 
 
